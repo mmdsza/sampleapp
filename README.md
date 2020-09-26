@@ -1,3 +1,3 @@
 # Sample app
 
-## Just a simple webapp for learning purposes
+Just a simple webapp for learning purposes
